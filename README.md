@@ -36,7 +36,7 @@
 * 透過 GitHub 建立靜態網頁
 * 了解 Git 版本控制
 
-##  Grafics/Post Production
+##  Graphics/Post Production
 * 能夠使用 Affter Effect 進行影像後製或特效製作
 * 能夠使用 Premiere 進行影像剪輯
 * 能用 Photoshop, Illustrator 做基本修圖
