@@ -31,6 +31,7 @@
 * 對 JavaScript 語法有相當的了解, 也能夠結合jQuery作開發
 * 能透過 jQuery 作動畫效果
 * 利用 Bootstrap 做快速切板
+* 了解 Vue.js 的基本功能
 
 ##  Git
 * 透過 GitHub 建立靜態網頁
