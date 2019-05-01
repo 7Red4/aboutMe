@@ -60,4 +60,4 @@
 * [狼少年的獨白(影像後製作品)](https://goo.gl/B33xis)
 * [網頁簡易鼓組](https://7red4.github.io/DrumKits/DrumKit.html)
 * [Vue-計算機](https://7red4.github.io/Calculator/index.html)
-* [采億科技股份有限公司 官網 (2019)](http://demo.fashioner.com.tw/)
+* [采億科技股份有限公司 官網 (2019)](https://www.tsaiyitech.com/)
