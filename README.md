@@ -57,6 +57,7 @@
 # 作品集
 ----------
 * [自我介紹網頁(RWD)](https://7red4.github.io/)
+* [新版個人頁(Vue + Vuetify)](https://7red4.github.io/7red4-2019/)
 * [狼少年的獨白(影像後製作品)](https://goo.gl/B33xis)
 * [網頁簡易鼓組](https://7red4.github.io/DrumKits/DrumKit.html)
 * [Vue-計算機](https://7red4.github.io/Calculator/index.html)
