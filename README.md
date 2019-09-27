@@ -2,7 +2,7 @@
 -------
 * Birth : 1994 / 07 / 21
 * Education : 國立台北科技大學 機械工程系(精密設計組)
-* Location : 台北 / 桃園
+* Location : 台北
 * E-mail : abc401344@gmail.com
 * Moblie  : 0968-110-579
 
@@ -20,10 +20,16 @@
 * 引導 PT 教學事項
 * 家長與學生之間協調溝通
 
-### 2018(September) ~ Now 采億科技股份有限公司
+### 2018(September) ~ 2019(May) 采億科技股份有限公司
 * 產品 "玩粉絲" 的維護以及新功能開發
 * 客製網頁前端程式撰寫(含動畫、api 串接)
 * 少量的後端開發(PHP)
+
+### 2019(June) ~ Now 幸福空間股份有限公司
+* 專案重構 (Nuxt)
+* 新舊專案耦合
+* component 開發
+* vuetify 引入以及再擴充
 
 # 技能
 ---------
@@ -36,11 +42,12 @@
 ##  JavaScript / Libraries / Frameworks
 * 對 JavaScript 語法有相當的了解, 也能夠結合 jQuery 作開發
 * 熟悉 Vue.js 並能夠以 cli 開發
+* 熟悉 Nuxt.js 並了解 SSR 及 pre-render 觀念
 * 略懂 Node.js 並能寫簡易的 api 但還不到資料庫串接
-* 略懂 Nuxt.js 並了解 SSR 及 pre-render 觀念
+* 略懂 socket 技術實現 realtime conection
 
 ## UI frameworks
-* 能夠以 vue 搭配 vuetify 製作 UI
+* 能夠以 vue 搭配 vuetify 製作 UI 或再擴充
 * 對現今 UI / UX 設計規範有相當程度的了解
 * 略懂 Bootstrap 做切板
 
@@ -48,17 +55,13 @@
 * 透過 GitHub 建立靜態網頁
 * 了解 Git 版本控制
 
-##  Graphics / Post Production
-* 熟悉 XD 基本操作製作簡易 prototype 或是 wireframe
-* 能夠使用 Affter Effect 進行簡易影像後製或特效製作
-* 能夠使用 Premiere 進行簡易影像剪輯
-* 能用 Photoshop, Illustrator 做基本修圖
+## Others
+* 略懂 pwa, service worker, manifest
+* 略懂 NGINX 伺服器調整
+* 略懂 flutter app 開發
 
 # 作品集
 ----------
-* [自我介紹網頁(RWD)](https://7red4.github.io/)
 * [新版個人頁(Vue + Vuetify)](https://7red4.github.io/7red4-2019/)
-* [狼少年的獨白(影像後製作品)](https://goo.gl/B33xis)
-* [網頁簡易鼓組](https://7red4.github.io/DrumKits/DrumKit.html)
-* [Vue-計算機](https://7red4.github.io/Calculator/index.html)
 * [采億科技股份有限公司 官網 (2019)](https://www.tsaiyitech.com/)
+* [Nuxt + socket 聊天室](https://red4-l.appspot.com)
