@@ -62,6 +62,6 @@
 
 # 作品集
 ----------
-* [新版個人頁(Vue + Vuetify)](https://7red4.github.io/7red4-2019/)
+* [個人頁(Vue + Vuetify)](https://7red4.github.io/7red4-2019/)
 * [采億科技股份有限公司 官網 (2019)](https://www.tsaiyitech.com/)
 * [Nuxt + socket 聊天室](https://red4-l.appspot.com)
